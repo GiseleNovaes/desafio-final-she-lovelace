@@ -1,0 +1,5 @@
+matplotlib
+seaborn
+colorama
+datetime
+
