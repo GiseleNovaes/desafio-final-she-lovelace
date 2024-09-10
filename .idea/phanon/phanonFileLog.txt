@@ -1,6 +1,0 @@
-/.idea/.gitignore
-/main.py
-/vendas/registro.py
-/vendas/relatorios.py
-/plots/gerar_graficos.py
-/vendas/dados/produtos.csv
