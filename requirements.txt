@@ -1,0 +1,6 @@
+seaborn
+colorama
+datetime
+pandas
+
+

@@ -13,17 +13,16 @@ def menu():
         [2] para Gerar Relatórios
         [3] para Gerar Gráficos
         [4] para Sair
-        Escolha uma opção: """)
+        Escolha uma opção: """ )
         
     
         if opcao == '1':
             registrar_venda()
-        """ elif opcao == '2':
-                relatorios.gerar_relatorio()
-            elif opcao == '3':
-                gerar_graficos.gerar_grafico_vendas()
-            elif opcao == '4':
-                print("Saindo do sistema.")
-                break """
-        
+        elif opcao == '2':
+            relatorios.gerar_relatorio()
+        elif opcao == '3':
+            gerar_graficos.gerar_grafico_vendas()
+        elif opcao == '4':
+            print("Saindo do sistema.")
+            break 
 menu()
