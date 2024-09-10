@@ -181,4 +181,5 @@ cython_debug/
 .idea/desafio-final-she-lovelace.iml
 .idea/misc.xml
 .idea/phanon/phanonFileLog.txt
+.myenv/
 
